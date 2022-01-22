@@ -18,4 +18,4 @@ Shows Image you select on Top of every Window by holding the button you choose.
 * You are using a different OS than __Windows__.
 * Type of the image you chossed is not supported.
 	- Supported types are __.png__, __.jpg__ and __.jpeg__.
-* The window you are curently in is in __Fullscreen__ mode switch to __Borderless__.
+* The window you are curently in is in __Fullscreen__ mode. Switch to __Borderless__.
