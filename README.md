@@ -8,7 +8,7 @@ Shows Image you select on Top of every Window by holding the button you choose.
 
 1. Press a __keyboard__ key you want to bind to display an image.
 2. Select an image you want to be displayed on your monitor.
-	1.  Click the button __Select_._
+	1.  Click the button __Select__.
 	2.  Select an Image what will be displayed.
 	3.  Press __Ok__.
 4.  Hold the button you choosed and the image will be displayed.
